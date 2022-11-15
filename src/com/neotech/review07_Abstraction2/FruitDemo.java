@@ -23,7 +23,14 @@ public class FruitDemo {
 	//	Peelable p = new Peelable(); 
 		Peelable p2 = new Apple("Green"); //up-casting
 		p2.peel();
+	//	p2.wash();
 		
 	}
 
 }
+
+// Task 1: create an Orange class that extends Fruit ad implement peelable
+
+//Task2 //Create an array of Peelable with 3 elements, one apple and two oranges
+		// Iterate the array and execute the peel method
+		// Try to execute wash method???
